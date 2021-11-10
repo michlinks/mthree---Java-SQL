@@ -1,0 +1,4 @@
+Coke,5,1.29,
+Crisps,5,0.78,
+Chocolate,5,0.94,
+Sweets,5,0.83,
