@@ -7,7 +7,7 @@ Project Aims: Create 4 basic programmes to demonstrate proficiency in basic Java
 
 
 Skills Developed:
-- Console input and output
+- Console input/output
 - Variable declarations
 - Flow of control statements
 - Expressions and methods
