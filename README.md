@@ -1,4 +1,4 @@
-# mthree Java Course with SQL integration
+# mthree Java Course with SQL 
 This six week course 
 
 # Skills Summary:
