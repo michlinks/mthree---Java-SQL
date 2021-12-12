@@ -6,7 +6,7 @@
 4. Summative Sums - Take in an array of integers and find the sum.
 
 
-Skills Developed:
+# Skills Developed:
 - User input/output
 - Variable declarations
 - Flow of control statements
