@@ -19,7 +19,7 @@ public class DogGenetics {
 
         Scanner sc = new Scanner(System.in);
         System.out.print("What is your dog's name?: ");
-        String dogName= sc.nextLine();
+        String dogName = sc.nextLine();
         System.out.print("Well then, I have this highly reliable report on " + dogName + "'s prestigious background right here.  \n");
         System.out.println("\n" + dogName + " is:\n");
         Random rd = new Random();
