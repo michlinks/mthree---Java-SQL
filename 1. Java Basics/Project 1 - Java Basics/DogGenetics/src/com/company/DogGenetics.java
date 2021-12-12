@@ -17,7 +17,7 @@ public class DogGenetics {
         double[] percent = new double[5];
         String[] dogBreeds = {"St. Bernard", "Chihuahua", "Dramatic RedNosed Asian Pug", "Common Cur", "King Doberman"};
 
-        Scanner sc= new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
         System.out.print("What is your dog's name?: ");
         String dogName= sc.nextLine();
         System.out.print("Well then, I have this highly reliable report on " + dogName + "'s prestigious background right here.  \n");
