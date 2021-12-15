@@ -5,4 +5,4 @@ This six week course covered Java concepts from basic syntax, to frameworks, uni
 
 1. Java Basics: Basic Java syntax proficiency
 2. DVDLibrary: Object Orientated Programming
-3. Vending Machine: MVC pattern, dependency injection for the integration of the Spring framework, JUnit testing and custom exceptions. 
+3. Vending Machine: MVC pattern, dependency injection for the integration of the Spring framework and custom exceptions. 
