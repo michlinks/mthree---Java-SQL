@@ -13,7 +13,7 @@ public interface FileIO {
 
         ArrayList<String> list = new ArrayList<String>();
         String line;
-        String matrix[][] = new String [5][3]; // make dynamic
+        String matrix[][] = new String [5][3]; 
         String arr[] = new String[list.toArray().length];
         try{
             BufferedReader myReader = new BufferedReader(new FileReader(path));
@@ -40,7 +40,7 @@ public interface FileIO {
     } // end of readFile
 
     default String[][] writeFile(String[][] array){
-        String path = "/Users/michaelalinks/Google Drive/Coding/Java/VendingMachine/Michaela_Links_Vending_Machine_MVCSwSpring/src/main/java/com/company/stock.txt";
+        String path = "stock.txt";
         try {
             StringBuilder builder = new StringBuilder();
             for (int i = 0; i < array.length; i++)//for each row
