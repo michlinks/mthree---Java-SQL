@@ -8,7 +8,7 @@ import java.io.IOException;
 
 @Component
 public class Stock implements FileIO {
-    String path = "/Users/michaelalinks/Google Drive/Coding/Java/VendingMachine/Michaela_Links_Vending_Machine_MVCSwSpring/src/main/java/com/company/stock.txt";
+    String path = "stock.txt";
 
     private String[][] stock;
     private String[] snacks;
