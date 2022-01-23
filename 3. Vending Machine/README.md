@@ -10,4 +10,4 @@ Create a Vending Machine programme that allows users to pick an item and pay in 
 - Dependency Injection
 - Spring Framework utilisation
 - Custom Exceptions
-- Introduction of DTOs and DAOs to create an MVC pattern 
+- Introduction of DTOs and DAOs to support the use of an MVC pattern 
